@@ -5,7 +5,7 @@ Just a TUI Todo project made with python without using TUI libraries
 
 Todo requires [python](https://python.org/) v3.12.2+ to run.
 ```sh
-git clone REP
+git clone https://github.com/q39n/Todo-py
 cd Todo
 pip3 install -r requirements.txt
 ```
